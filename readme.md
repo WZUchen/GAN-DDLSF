@@ -1,6 +1,6 @@
 # GAN-DDLSF 🚀
 
-![GitHub](https://img.shields.io/github/license/yourusername/GAN-DDLSF)
+![GitHub](https://img.shields.io/github/license/WZUchen/GAN-DDLSF)
 ![GitHub last commit](https://img.shields.io/github/last-commit/WZUchen/GAN-DDLSF)
 ![GitHub issues](https://img.shields.io/github/issues/WZUchen/GAN-DDLSF)
 ![GitHub stars](https://img.shields.io/github/stars/WZUchen/GAN-DDLSF?style=social)
