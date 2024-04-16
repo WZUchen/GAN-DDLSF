@@ -1,9 +1,9 @@
 # GAN-DDLSF 🚀
 
 ![GitHub](https://img.shields.io/github/license/yourusername/GAN-DDLSF)
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/GAN-DDLSF)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/GAN-DDLSF)
-![GitHub stars](https://img.shields.io/github/stars/yourusername/GAN-DDLSF?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/WZUchen/GAN-DDLSF)
+![GitHub issues](https://img.shields.io/github/issues/WZUchen/GAN-DDLSF)
+![GitHub stars](https://img.shields.io/github/stars/WZUchen/GAN-DDLSF?style=social)
 
 ## Abstract
 In this project, we introduce a novel generative adversarial network (GAN) model, named GAN-DDLSF, which integrates a data-driven latent space fusion (DDLSF) method. This method optimizes the latent space by blending the statistical properties of real data with a standard Gaussian distribution. Our approach addresses the challenges of high-dimensional data complexity and mode collapse in GANs, enhancing prediction accuracy in materials science. Specifically, GAN-DDLSF is applied to predict binary crystal structures of Gallium Nitride (GaN), a key material for advanced electronics and optoelectronics. The model successfully generates 9,321 GaN binary crystal structures, achieving significant stability and metastability rates, thereby advancing the potential for new materials discovery and design.
@@ -24,6 +24,7 @@ We are excited to announce that we will soon open-source our GAN-DDLSF code! The
 git clone https://github.com/yourusername/GAN-DDLSF.git
 cd GAN-DDLSF
 pip install -r requirements.txt
+```
 
 ## Contributing
 We welcome contributions to make GAN-DDLSF even better. Fork the project, submit a pull request, or open an issue to get started! 👍
