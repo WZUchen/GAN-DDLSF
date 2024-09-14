@@ -80,15 +80,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Contact
 
-Chen Zi'an - [@YourTwitter](https://twitter.com/YourTwitter) - email@example.com
+Chen Zi'an -  wzucza@gmail.com
 
 Project Link: [https://github.com/WZUchen/GAN-DDLSF](https://github.com/WZUchen/GAN-DDLSF)
-```
-
-这个版本反映了代码和数据已经提交的情况：
-
-1. 将"Coming Soon"部分改为"Repository Contents"，表明内容已经可用。
-2. 添加了一个"Quick Start Guide"部分，提供了使用代码的基本步骤。
-3. 保留了其他重要信息，如贡献指南、引用格式、致谢等。
-
-这个修改版本更好地反映了项目的当前状态，并为潜在用户提供了清晰的使用指南。如果您需要进一步的调整或有任何其他要求，请随时告诉我。
