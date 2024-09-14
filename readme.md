@@ -1,4 +1,3 @@
-
 # GAN-DDLSF: Advancing Materials Discovery with AI 🚀
 
 ![GitHub](https://img.shields.io/github/license/WZUchen/GAN-DDLSF)
@@ -32,15 +31,61 @@ We are excited to announce that our GAN-DDLSF code and data are now available! O
 
 ## Installation
 
+To get started, follow these steps to install the necessary dependencies and set up the environment:
+
 ```bash
 git clone https://github.com/WZUchen/GAN-DDLSF.git
 cd GAN-DDLSF
 pip install -r requirements.txt
 ```
 
+## Data Preprocessing 🧹
+
+Before training the model, it is essential to preprocess the data. We have provided scripts that handle data normalization, cleaning, and preparation. Execute the scripts in the `data_processing` folder in order:
+
+```bash
+cd data_processing
+```
+
+This ensures that the dataset is in the proper format and ready for training.
+
+## Training the Model 🚀
+
+Once the data is processed, you can start training the GAN-DDLSF model using the `Trainer/train.py` script. This script is designed to train the GAN model on the preprocessed data and optimize the latent space fusion process.
+
+```bash
+cd ../Trainer
+python train.py
+```
+
+The training process includes:
+
+- **Model Initialization**: Initializing the GAN-DDLSF architecture with predefined hyperparameters.
+- **Latent Space Fusion**: Applying the DDLSF method to balance real data distribution and Gaussian noise.
+- **Checkpointing**: Saving intermediate results for future use.
+
+## Post-processing 📈
+
+After training is complete, you can generate and analyze the predicted crystal structures using the post-processing scripts in the `postprocess_data` directory. This step helps you evaluate the quality and properties of the generated structures.
+
+```bash
+cd ../postprocess_data
+```
+
+Post-processing includes:
+
+- **Structure Analysis**: Evaluating the stability and metastability of the predicted crystal structures.
+- **Visualization**: Visualizing the generated structures for better interpretation of results.
+  
 ## Quick Start Guide
 
-wait to edit
+### Example Workflow:
+
+1. **Clone the Repository**: `git clone https://github.com/WZUchen/GAN-DDLSF.git`
+2. **Install Dependencies**: `pip install -r requirements.txt`
+3. **Preprocess Data**: Run the scripts in `data_processing` folder.
+4. **Train the Model**: `python Trainer/train.py`
+5. **Post-process Results**: Analyze and visualize with scripts in `postprocess_data`.
 
 For detailed instructions, please refer to our [documentation](docs/README.md).
 
@@ -56,19 +101,10 @@ We welcome contributions to enhance GAN-DDLSF! Here's how you can get involved:
 
 For major changes, please open an issue first to discuss what you would like to change.
 
-## Citation
-
-If you use GAN-DDLSF in your research, please cite our work:
-
-```bibtex
-@article{
-}
-```
 
 ## Acknowledgments
 
-- This project was fully developed independently by Chen Zi'an.
-- Special thanks to all contributors who have helped shape this project.
+This project was fully developed independently by Chen Zi'an. Special thanks to all contributors who have helped shape this project.
 
 ## License
 
@@ -76,6 +112,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Contact
 
-Chen Zi'an -  wzucza@gmail.com
+Chen Zi'an - wzucza@gmail.com
 
 Project Link: [https://github.com/WZUchen/GAN-DDLSF](https://github.com/WZUchen/GAN-DDLSF)
