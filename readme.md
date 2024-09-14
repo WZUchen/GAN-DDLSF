@@ -1,5 +1,4 @@
 
-```markdown
 # GAN-DDLSF: Advancing Materials Discovery with AI 🚀
 
 ![GitHub](https://img.shields.io/github/license/WZUchen/GAN-DDLSF)
