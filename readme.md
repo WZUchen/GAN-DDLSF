@@ -61,11 +61,7 @@ For major changes, please open an issue first to discuss what you would like to 
 If you use GAN-DDLSF in your research, please cite our work:
 
 ```bibtex
-@article{chen2024gan,
-  title={GAN-DDLSF: A Novel Approach for Predicting Binary Crystal Structures},
-  author={Chen, Zi'an},
-  journal={arXiv preprint arXiv:xxxx.xxxxx},
-  year={2024}
+@article{
 }
 ```
 
