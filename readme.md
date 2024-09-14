@@ -1,3 +1,4 @@
+
 # GAN-DDLSF: Advancing Materials Discovery with AI 🚀
 
 ![GitHub](https://img.shields.io/github/license/WZUchen/GAN-DDLSF)
@@ -19,14 +20,14 @@ Our primary focus is on predicting binary crystal structures of Gallium Nitride 
 - **Scalable Architecture**: Designed to be adaptable for various materials and crystal structures beyond GaN. 🔧
 - **Interpretable Results**: Provides insights into the generated structures, facilitating better understanding of material properties. 📊
 
-## Coming Soon! 🌟
+## Repository Contents 📁
 
-We are thrilled to announce the imminent open-sourcing of our GAN-DDLSF code! Our repository will soon include:
+We are excited to announce that our GAN-DDLSF code and data are now available! Our repository includes:
 
-- **Complete Source Code**: Fully documented and ready for community use and contributions.
-- **Comprehensive Training Datasets**: Carefully curated datasets to help you train the model efficiently.
-- **Extensive Generated Datasets**: Explore the diverse crystal structures produced by our model.
-- **Detailed Documentation**: Step-by-step guides for setup, training, and result interpretation.
+- **Source Code**: Fully documented and ready for community use and contributions.
+- **Training Datasets**: Carefully curated datasets to help you train the model efficiently.
+- **Generated Datasets**: Explore the diverse crystal structures produced by our model.
+- **Documentation**: Step-by-step guides for setup, training, and result interpretation.
 - **Jupyter Notebooks**: Interactive examples demonstrating key functionalities and use cases.
 
 ## Installation
@@ -35,3 +36,46 @@ We are thrilled to announce the imminent open-sourcing of our GAN-DDLSF code! Ou
 git clone https://github.com/WZUchen/GAN-DDLSF.git
 cd GAN-DDLSF
 pip install -r requirements.txt
+```
+
+## Quick Start Guide
+
+wait to edit
+
+For detailed instructions, please refer to our [documentation](docs/README.md).
+
+## Contributing
+
+We welcome contributions to enhance GAN-DDLSF! Here's how you can get involved:
+
+1. Fork the project
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+For major changes, please open an issue first to discuss what you would like to change.
+
+## Citation
+
+If you use GAN-DDLSF in your research, please cite our work:
+
+```bibtex
+@article{
+}
+```
+
+## Acknowledgments
+
+- This project was fully developed independently by Chen Zi'an.
+- Special thanks to all contributors who have helped shape this project.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
+## Contact
+
+Chen Zi'an -  wzucza@gmail.com
+
+Project Link: [https://github.com/WZUchen/GAN-DDLSF](https://github.com/WZUchen/GAN-DDLSF)
