@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_GaN
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.03762176
+_cell_length_b   4.41930344
+_cell_length_c   3.79503445
+_cell_angle_alpha   96.94661068
+_cell_angle_beta   71.61931492
+_cell_angle_gamma   83.89261278
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GaN
+_chemical_formula_sum   'Ga2 N2'
+_cell_volume   47.42299041
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.04412978  0.10038320  0.46621743  1
+  Ga  Ga1  1  -0.73366181  0.68535824  -0.18864922  1
+  N  N2  1  0.73505085  -0.57675073  -0.03876104  1
+  N  N3  1  0.57525118  0.36213930  0.31651284  1
