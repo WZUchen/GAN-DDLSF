@@ -40,21 +40,7 @@ pip install -r requirements.txt
 
 ## Quick Start Guide
 
-1. **Data Preparation**: 
-   - Navigate to the `data` directory to find the training datasets.
-   - Use `prepare_data.py` to preprocess your own data if needed.
-
-2. **Model Configuration**: 
-   - Adjust model parameters in `config.yaml` as needed.
-
-3. **Training**: 
-   - Run `python train.py` to start training the model.
-
-4. **Prediction**: 
-   - Use `python predict.py` to generate new crystal structures.
-
-5. **Evaluation**: 
-   - Utilize `evaluate.py` to assess the quality of generated structures.
+wait to edit
 
 For detailed instructions, please refer to our [documentation](docs/README.md).
 
