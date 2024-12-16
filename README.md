@@ -31,9 +31,33 @@ The project follows a systematic approach to structure prediction:
 3. Structure generation and stability analysis
 4. Validation and verification of predicted structures
 
-## Purpose
+## Development Plan
 
-This repository aims to provide transparency and reproducibility in our research methodology. By sharing our complete workflow, including all data processing scripts and intermediate results, we enable other researchers to:
-- Understand our data processing pipeline
-- Reproduce our results
-- Build upon our methodology for further research
+### Current Progress
+
+- ✅ Data Upload Completed
+
+  - Basic MP binary compound structures
+
+  - Filtered compound database
+
+  - Generated stable and metastable structures
+
+### Future Plans
+
+- 🔄 In Progress
+
+  - Data processing scripts organization and documentation
+
+  - Processing workflow documentation refinement
+
+- 📅 Planned Releases
+
+  - Structure screening scripts
+
+  - Data preprocessing utilities
+
+  - Structure generation and validation scripts
+
+  - Complete operation examples and usage instructions
+
